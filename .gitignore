@@ -13,3 +13,8 @@ Q2/contracts/circuits/Multiplier3
 Q2/contracts/circuits/HelloWorld
 Q2/contracts/circuits/Multiplier3_plonk
 Q3/contracts/bonus/SystemOfEquations
+*.zkey
+*.r1cs
+*.wasm
+*.sym
+verification_key.json
